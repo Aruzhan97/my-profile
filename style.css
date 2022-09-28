@@ -1,0 +1,68 @@
+html, body {
+	text-align: center;
+	color: grey;
+	background-color: #495C83;
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	margin: 10px 50px;
+	border-radius: 10px;
+	background-color: #7A86B6;
+	color: white;
+}
+
+div {
+	border: 1px solid #C8B6E2;
+	margin:  0 50px;
+	border-radius: 10px;
+	background-color: #C8B6E2;
+	font-family: 'Lato', sans-serif;
+}
+
+img {
+	border-radius: 50%;
+	width: 280px;
+	height: 250px;
+
+
+}
+
+.card_purple{
+	border: 1px solid #A8A4CE;
+	/*margin: 10px 30%;*/
+	margin: 50px;
+    box-shadow: 20px 15px 6px #495c83;
+	padding: 25px;
+	background-color: #A8A4CE;
+	color: whitesmoke;
+
+}
+
+
+#app{
+
+}
+
+ul {
+	list-style-position: inside;
+	width: 25%;
+	margin: auto;
+}
+
+
+li {
+	text-align: left;
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+
+.list-inline{
+	display: inline-block;
+}
+
